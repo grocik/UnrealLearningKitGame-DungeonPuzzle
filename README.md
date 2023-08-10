@@ -1,6 +1,6 @@
 # UnrealLearningKitGame-DungeonPuzzle
 Only custom .cpp and .h files due to too many files 
- Simple UE/C++ Puzzle game 
+ Simple UE/C++/blueprints Puzzle game 
 #Gameplay 
 
 https://github.com/grocik/UnrealLearningKitGame-DungeonPuzzle/assets/77440858/5c78af3e-9ca2-460d-8ee3-ac324813a68c
